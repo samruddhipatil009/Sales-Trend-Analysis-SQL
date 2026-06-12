@@ -31,6 +31,11 @@ This project analyzes sales data using SQL aggregation techniques. The objective
 * LIMIT
 
 ## Queries Performed
+### 1. Create Table
+![Create Table](Create%20Table.png)
+
+### 2. Insert Data  
+![Insert online sales](Insert%20online%20sales.png)
 
 ### Monthly Sales Trend Analysis
 ![Monthly Sales Trend Analysis](Monthly%20Sales%20Trend%20Analysis.png)
